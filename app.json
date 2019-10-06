@@ -22,12 +22,14 @@
         "EMAIL_FROM": "_unused_",
         "EMAIL_USER": "_unused_",
         "EMAIL_PASSWORD": "_unused_",
-        "IGNORE_CONFIG_FILE": "true"
+        "IGNORE_CONFIG_FILE": "true",
+        "email_subject": "SET-THIS",
+        "email_body": "SET-THIS"
     },
     "keywords": [
         "gavel",
         "python",
         "flask"
     ],
-    "name": "Gavel Judging System"
+    "name": "TAMU Datathon 2019 Judging - Gavel"
 }
